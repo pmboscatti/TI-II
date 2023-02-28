@@ -1,3 +1,5 @@
+<h1 align="center">Trabalho Interdisciplinar II: Bancos de Dados e Sistemas Inteligentes</h1>
+
 <p align="center">
 <img src="https://img.shields.io/badge/status-andamento-yellow">
 <img src="https://img.shields.io/badge/versao-1.0.0-informational">
