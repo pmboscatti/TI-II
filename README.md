@@ -2,7 +2,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/status-andamento-yellow">
-<img src="https://img.shields.io/badge/versao-1.0.0-informational">
+<img src="https://img.shields.io/badge/update-02%2F03%2F2023-informational">
 </p>
 
 ## :pencil: Descrição do Repositório
